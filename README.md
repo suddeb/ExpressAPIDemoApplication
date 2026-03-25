@@ -6,6 +6,13 @@ No database required. All data lives in-memory so you can clone and run it insta
 
 ---
 
+## 🚀 Youtube Video
+
+Youtube Video: Gemini CLI's New Plan Mode Changes Everything for Developers
+Link: https://youtu.be/q-Qon0I7MS8
+
+---
+
 ## 🚀 Getting Started
 
 ```bash
@@ -108,6 +115,7 @@ curl http://localhost:3000/api/products?category=Electronics
 
 This repo is the demo project for the **Technical Potpourri** video:
 **"Gemini CLI Plan Mode — Think Before You Build"**
+Link: https://youtu.be/q-Qon0I7MS8
 
 👉 Watch it at [sudipta-deb.in](https://sudipta-deb.in) or on the [Technical Potpourri YouTube channel](https://www.youtube.com/@TechnicalPotpourri).
 
