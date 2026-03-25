@@ -1,0 +1,25 @@
+{
+  "name": "express-api-demo",
+  "version": "1.0.0",
+  "description": "A simple Express.js REST API demo — used for the Technical Potpourri YouTube series on Gemini CLI Plan Mode",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "demo",
+    "nodejs"
+  ],
+  "author": "Technical Potpourri",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
